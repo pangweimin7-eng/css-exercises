@@ -1,1 +1,21 @@
 /* Add CSS Styling */
+.class {
+    background-color: pink;
+    font-family: Verdana, "DejaVu Sans", Tahoma, sans-serif;
+}
+
+#div-id {
+    color: blue;
+    font-size: 32px;
+}
+
+#div2-id {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.cooler-class {
+    font-size: 24px;
+}
+
